@@ -8,10 +8,12 @@ A pixel-perfect WhatsApp clone built with Flutter, featuring authentic UI design
 
 | Light Mode | Dark Mode |  
 |------------|-----------|  
-| ![Home Light](screenshots/home_light.png) | ![Home Dark](screenshots/home_dark.png) |  
-| ![Chat Light](screenshots/chat_light.png) | ![Chat Dark](screenshots/chat_dark.png) |  
-| ![Stories Light](screenshots/stories_light.png) | ![Stories Dark](screenshots/stories_dark.png) |  
-| ![Calls Light](screenshots/calls_light.png) | ![Calls Dark](screenshots/calls_dark.png) |  
+| ![homelight](https://github.com/user-attachments/assets/7953d384-b67a-47db-8a01-12fc9680ffb0)| ![homedark](https://github.com/user-attachments/assets/cb080f34-ec77-404a-a1bf-51c48195ac0c)|  
+| ![chatlight](https://github.com/user-attachments/assets/4efc0543-f336-439a-8a99-8a79c68aeb58)| ![chatdark](https://github.com/user-attachments/assets/824b144b-1071-4eba-aefc-500fe45f0d79)|  
+| ![storylight](https://github.com/user-attachments/assets/66c94b1d-0a16-4c3c-895b-e97af8243e80)| ![storydark](https://github.com/user-attachments/assets/7b4675fe-6ffd-42c4-8f2c-8a4724d793e7)
+ |  
+| ![storycontent](https://github.com/user-attachments/assets/4f6cb262-6fd4-40fa-b61a-754114aa39d1)
+
 
 ---
 
