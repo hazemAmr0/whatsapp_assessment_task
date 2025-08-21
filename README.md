@@ -1,4 +1,4 @@
-# WhatsApp Flutter Clone  
+# whatsapp_assessment_task 
 
 A pixel-perfect WhatsApp clone built with Flutter, featuring authentic UI design and interactive functionality that closely matches the original WhatsApp.  
 
